@@ -1,0 +1,25 @@
+.one{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.two{
+  background-color: darkgreen;
+  color: white;
+  border: 1px black solid;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+.two img{
+  width: 250px;
+}
+.three h1{
+  text-align: center;
+}
+.three input{
+ display: block;
+ margin: 0 auto;
+ margin-bottom: 10px;
+}
